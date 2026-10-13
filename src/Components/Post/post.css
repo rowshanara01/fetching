@@ -1,0 +1,24 @@
+.post {
+    padding: 20px;
+    margin: 20px;
+    background-color: gray;
+    position: relative;
+    width: 300px;
+}
+
+.fav-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+.post-image {
+    width: 200px;
+    height: auto;
+    max-height: 300px;
+    object-fit: contain;
+}
+
+.post-image img {
+    width: 25px;
+    height: 25px;
+}
